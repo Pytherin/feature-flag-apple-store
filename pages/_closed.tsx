@@ -15,10 +15,13 @@ export default function Closed() {
       </svg>
       */}
       <h1 className="text-5xl tracking-tight max-w-3xl font-semibold mb-4 mt-10">
-        We&apos;ll be back.
+        Will be back!?
       </h1>
       <p className="ml-4 text-gray-500 text-xl">
         因为某条时间线的崩塌，此站点暂时停止。
+      </p>
+      <p className="ml-4 text-gray-100 text-x">
+        聪明的小朋友如果知道此blog搭建于哪个平台，其实可以找到链接继续访问。
       </p>
     </div>
   )
