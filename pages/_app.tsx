@@ -5,10 +5,8 @@ import Nav from 'components/nav'
 function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
-      {/*
-      <Nav />
+      {/* <Nav /> */}
       <Component {...pageProps} />
-      */}
     </>
   )
 }
